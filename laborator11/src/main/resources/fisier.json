@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "denumire": "Concert Rock",
+    "locatie": "Arena Națională",
+    "data": "2025-06-15",
+    "timp": "20:00:00",
+    "pretBilet": 150.0
+  }
+]

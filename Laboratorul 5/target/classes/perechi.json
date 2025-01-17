@@ -1,0 +1,21 @@
+[
+  {
+    "number1" : 5,
+    "number2" : 6
+  },
+
+  {
+    "number1": 10,
+    "number2": 0
+  },
+
+  {
+    "number1": 3,
+    "number2": 8
+  },
+
+  {
+    "number1": 7,
+    "number2": 1
+  }
+]
